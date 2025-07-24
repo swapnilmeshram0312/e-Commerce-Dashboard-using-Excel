@@ -7,7 +7,8 @@ This project presents an interactive dashboard built using **Power BI** to analy
 ## 📁 Files Included
 
 - `eCommerce Store 2025.xlsx`: The dataset containing order, customer, product, and sales details.
-- `Capture.PNG`: A screenshot of the final Excel dashboard for reference.
+- <img width="1156" height="596" alt="Capture" src="https://github.com/user-attachments/assets/5f558dc5-1b80-4d77-b2f7-3f854adc5b8a" />
+: A screenshot of the final Excel dashboard for reference.
 
 ---
 
